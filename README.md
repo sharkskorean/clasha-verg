@@ -1,3 +1,5 @@
+![Clash verg](./screenShot.png)
+
 # clasha-verg
 clasha verg 各版本下载，向下面看
 
